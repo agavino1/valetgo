@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "id": "1773003805972-sruain",
+      "type": "cliente",
+      "name": "Test",
+      "email": "t@e.com",
+      "city": "Madrid",
+      "phone": null,
+      "vehicleType": null,
+      "zones": [],
+      "ts": "2026-03-08T21:03:25.972Z"
+    }
+  ]
+}
